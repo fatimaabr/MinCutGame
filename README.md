@@ -1,4 +1,5 @@
-🧩 Minimum Cut Game (MCG) – Optimization Project
+# 🧩 Minimum Cut Game (MCG) – Optimization Project
+
 Author: Fatima Aboura
 Tool: IBM CPLEX Solver
 Format: Jupyter Notebook (MCG.ipynb)
